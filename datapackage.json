@@ -13461,17 +13461,37 @@
     }
   ],
   "title": "Uruguay",
-  "description": "Uruguay",
+  "description": "Spending information of the central government of Uruguay.",
   "tags": [
     "national"
   ],
   "govt_level": "National",
-  "pub_institutional_name": "Uruguay",
+  "pub_institutional_name": "Oficina de Planeación y Presupuesto",
   "continent": "South America",
   "country": "Uruguay",
   "periodicity": "Yearly",
   "start_date": "2021-01-01",
   "end_date": "2021-06-01",
   "createdAt": "2021-06-01T13:38:53Z",
-  "updatedAt": "2021-06-01T13:58:30Z"
+  "updatedAt": "2021-06-01T16:10:08Z",
+  "years_included": [
+    "2011",
+    "2012",
+    "2013",
+    "2014",
+    "2015",
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021"
+  ],
+  "budget_stage": [
+    "Enacted",
+    "Quarterly reports",
+    "Year-end"
+  ],
+  "author_website": "https://transparenciapresupuestaria.opp.gub.uy/",
+  "author_email": "portaltransparenciapresupuestaria@opp.gub.uy"
 }
